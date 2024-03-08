@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KasaganiGanesh/myapp1/static/css/main.e6c13ad2.css",
+    "main.js": "/KasaganiGanesh/myapp1/static/js/main.b9468854.js",
+    "index.html": "/KasaganiGanesh/myapp1/index.html",
+    "main.e6c13ad2.css.map": "/KasaganiGanesh/myapp1/static/css/main.e6c13ad2.css.map",
+    "main.b9468854.js.map": "/KasaganiGanesh/myapp1/static/js/main.b9468854.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b9468854.js"
+  ]
+}
