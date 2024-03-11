@@ -6,6 +6,7 @@ import './index.css';
 // import App3 from './App3';
 // import App4 from './App4';
 import App5 from './App5';
+import App from './App'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -14,7 +15,7 @@ root.render(
    {/* <App3 names={["gani","mani","abhi"]} marks={["10","20","30"]}/> */}
 
 {/* <App3 students={{name:"ganesh",age:22}}/> */}
-<App5 />
+<App />
   
   </React.StrictMode>
 );
